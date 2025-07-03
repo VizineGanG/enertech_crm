@@ -1,9 +1,9 @@
 [project]
 name = "enertech_crm"
 authors = [
-    { name = "BrainMine Tech Solutions Pvt. Ltd.", email = "vanshbhat@gmail.com"}
+    { name = "BrainMine Web Solutions Pvt. Ltd.", email = "info@brainminetech.com"}
 ]
-description = "CRM for EnerTech"
+description = "Custom CRM for EnerTech"
 requires-python = ">=3.10"
 readme = "README.md"
 dynamic = ["version"]

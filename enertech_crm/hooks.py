@@ -1,8 +1,8 @@
 app_name = "enertech_crm"
-app_title = "Enertech Crm"
-app_publisher = "BrainMine Tech Solutions Pvt. Ltd."
-app_description = "CRM for EnerTech"
-app_email = "vanshbhat@gmail.com"
+app_title = "EnerTech CRM"
+app_publisher = "BrainMine Web Solutions Pvt. Ltd."
+app_description = "Custom CRM for EnerTech"
+app_email = "info@brainminetech.com"
 app_license = "mit"
 
 # Apps
@@ -15,7 +15,7 @@ app_license = "mit"
 # 	{
 # 		"name": "enertech_crm",
 # 		"logo": "/assets/enertech_crm/logo.png",
-# 		"title": "Enertech Crm",
+# 		"title": "EnerTech CRM",
 # 		"route": "/enertech_crm",
 # 		"has_permission": "enertech_crm.api.permission.has_app_permission"
 # 	}
