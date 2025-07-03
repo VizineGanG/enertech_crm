@@ -1,0 +1,119 @@
+{
+ "charts": [
+  {
+   "chart_name": "Deals Closed - Status Summary",
+   "label": "Deals Closed - Status Summary"
+  }
+ ],
+ "content": "[{\"id\":\"iG5yigloff\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">EnerTech CRM</span>\",\"col\":12}},{\"id\":\"TYd5aNgcAT\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"Prospects\",\"col\":4}},{\"id\":\"sPd83Lqsxe\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"Leads\",\"col\":4}},{\"id\":\"q9h1zk_nFj\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"Opportunities\",\"col\":4}},{\"id\":\"rCvn5ipiYB\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"Quotations\",\"col\":4}},{\"id\":\"Nj7VQgxvq8\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"Follow Ups\",\"col\":4}},{\"id\":\"bkp477Cys7\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"Deal\",\"col\":4}},{\"id\":\"gDcM5foUES\",\"type\":\"spacer\",\"data\":{\"col\":12}},{\"id\":\"wN68PkpyhY\",\"type\":\"chart\",\"data\":{\"chart_name\":\"Deals Closed - Status Summary\",\"col\":12}}]",
+ "creation": "2025-07-03 13:05:22.845066",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "idx": 0,
+ "indicator_color": "red",
+ "is_hidden": 0,
+ "label": "EnerTech CRM",
+ "links": [
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Prospects",
+   "link_count": 0,
+   "link_to": "Prospect",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Leads",
+   "link_count": 0,
+   "link_to": "Lead",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Opportunities",
+   "link_count": 0,
+   "link_to": "Opportunity",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Quotations",
+   "link_count": 0,
+   "link_to": "Quotation",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Follow Ups",
+   "link_count": 0,
+   "link_to": "Follow Up",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Deal",
+   "link_count": 0,
+   "link_to": "Deals",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  }
+ ],
+ "modified": "2025-07-03 13:21:00.699600",
+ "modified_by": "Administrator",
+ "module": "EnerTech CRM",
+ "name": "EnerTech CRM",
+ "number_cards": [
+  {
+   "label": "Prospects",
+   "number_card_name": "Prospect"
+  },
+  {
+   "label": "Leads",
+   "number_card_name": "Lead"
+  },
+  {
+   "label": "Opportunities",
+   "number_card_name": "Opportunity"
+  },
+  {
+   "label": "Quotations",
+   "number_card_name": "Quotation"
+  },
+  {
+   "label": "Follow Ups",
+   "number_card_name": "FollowUp"
+  },
+  {
+   "label": "Deal",
+   "number_card_name": "Deal"
+  }
+ ],
+ "owner": "Administrator",
+ "parent_page": "",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [],
+ "sequence_id": 1.0,
+ "shortcuts": [],
+ "title": "EnerTech CRM"
+}
