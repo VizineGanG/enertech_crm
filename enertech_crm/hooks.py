@@ -242,26 +242,22 @@ app_license = "mit"
 # 	"Logging DocType Name": 30  # days to retain logs
 # }
 fixtures = [
-    "Custom Field",
-    "Property Setter",
-    "Role",
-    "Client Script",
-    "Workflow",
-    "Workflow State",
-    "Workflow Action",
-    "DocType",
-    "Report",
-    "Print Format",
-    "Role Profile",
-    "User Permission",
-    "Role Permission for Page and Report",
-    "Has Role",
-    {
-        "dt": "Custom DocPerm",
-        "filters": [["role", "in", ["Super Admin", "Admin", "Branch Admin", "Salesperson", "BOE"]]]
-    },
-    {
-        "dt": "DocType",
-        "filters": [["name", "=", "API Integration"]]
-    }
+    {"doctype": "Custom Field"},
+    {"doctype": "Property Setter"},
+    {"doctype": "Role"},
+    {"doctype": "Client Script"},
+    {"doctype": "Workflow"},
+    {"doctype": "Workflow State"},
+    {"doctype": "Workflow Action"},
+    {"doctype": "DocType"},
+    {"doctype": "Report"},
+    {"doctype": "Print Format"},
+    {"doctype": "Role Profile"},
+    {"doctype": "User Permission"},
+    {"doctype": "Role Permission for Page and Report"},
+    {"doctype": "Has Role"},
+    {"doctype": "Custom DocPerm", "filters": [["role", "in", ["Super Admin", "Admin", "Branch Admin", "Salesperson", "BOE"]]]},
+    {"doctype": "Workspace", "filters": [["name", "=", "API Integration"]]},
+    {"doctype": "DocType", "filters": [["name", "=", "API Integration"]]}
 ]
+
