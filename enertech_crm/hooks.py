@@ -259,6 +259,9 @@ fixtures = [
     {
         "dt": "Custom DocPerm",
         "filters": [["role", "in", ["Super Admin", "Admin", "Branch Admin", "Salesperson", "BOE"]]]
+    },
+    {
+        "dt": "DocType",
+        "filters": [["name", "=", "API Integration"]]
     }
 ]
-

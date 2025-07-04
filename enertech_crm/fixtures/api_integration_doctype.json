@@ -1,0 +1,51 @@
+[
+    {
+        "doctype": "DocType",
+        "name": "API Integration",
+        "module": "Enertech CRM",
+        "custom": 1,
+        "autoname": "field:api_key",
+        "fields": [
+            {
+                "fieldname": "user",
+                "fieldtype": "Link",
+                "label": "User",
+                "options": "User",
+                "reqd": 1
+            },
+            {
+                "fieldname": "api_key",
+                "fieldtype": "Data",
+                "label": "API Key",
+                "read_only": 1
+            },
+            {
+                "fieldname": "api_secret",
+                "fieldtype": "Data",
+                "label": "API Secret",
+                "read_only": 1
+            },
+            {
+                "fieldname": "enabled",
+                "fieldtype": "Check",
+                "label": "Enabled",
+                "default": "1"
+            }
+        ],
+        "permissions": [
+            {
+                "role": "System Manager",
+                "read": 1,
+                "write": 1,
+                "create": 1,
+                "delete": 1
+            }
+        ],
+        "editable_grid": 1,
+        "track_changes": 1,
+        "track_seen": 1,
+        "creation": "2025-07-04T12:49:38.550675",
+        "modified": "2025-07-04T12:49:38.550686",
+        "owner": "Administrator"
+    }
+]
