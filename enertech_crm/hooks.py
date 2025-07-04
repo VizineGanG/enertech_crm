@@ -242,15 +242,23 @@ app_license = "mit"
 # 	"Logging DocType Name": 30  # days to retain logs
 # }
 fixtures = [
-    {"doctype": "Role", "filters": [["role_name", "in", [
-        "Super Admin", "Admin", "Branch Admin", "Salesperson", "BOE"
-    ]]]},
-    {"doctype": "Custom Field"},
-    {"doctype": "Client Script"},
-    {"doctype": "Property Setter"},
-    {"doctype": "Custom DocPerm"},
-    {"doctype": "Workspace"},
-    {"doctype": "Report"},
-    {"doctype": "Translation"},
+    "Custom Field",
+    "Property Setter",
+    "Role",
+    "Client Script",
+    "Workflow",
+    "Workflow State",
+    "Workflow Action",
+    "DocType",
+    "Report",
+    "Print Format",
+    "Role Profile",
+    "User Permission",
+    "Role Permission for Page and Report",
+    "Has Role",
+    {
+        "dt": "Custom DocPerm",
+        "filters": [["role", "in", ["Super Admin", "Admin", "Branch Admin", "Salesperson", "BOE"]]]
+    }
 ]
 

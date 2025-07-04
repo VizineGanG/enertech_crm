@@ -1,0 +1,1272 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:44:26.665247",
+  "name": "1bq5l7j5jd",
+  "parent": "permission-manager",
+  "parentfield": "roles",
+  "parenttype": "Page",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:44:36.402813",
+  "name": "1esv1gkfhd",
+  "parent": "ToDo",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:44:36.366593",
+  "name": "1erkn7hhrf",
+  "parent": "setup-wizard",
+  "parentfield": "roles",
+  "parenttype": "Page",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:44:26.724110",
+  "name": "1brljpfsqr",
+  "parent": "Permitted Documents For User",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:44:39.723886",
+  "name": "1ft2a3qjiq",
+  "parent": "print-format-builder",
+  "parentfield": "roles",
+  "parenttype": "Page",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:44:26.737863",
+  "name": "1brkp8ghmi",
+  "parent": "Document Share Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:44:36.311234",
+  "name": "1er1pt5jbs",
+  "parent": "backups",
+  "parentfield": "roles",
+  "parenttype": "Page",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:44:40.699168",
+  "name": "1g7m4pugmk",
+  "parent": "Addresses And Contacts",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:44:26.716968",
+  "name": "1brecup4b2",
+  "parent": "Transaction Log Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Administrator"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:44:36.348472",
+  "name": "1eri9gt88s",
+  "parent": "user-profile",
+  "parentfield": "roles",
+  "parenttype": "Page",
+  "role": "All"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:44:29.551717",
+  "name": "1cn0cda4j1",
+  "parent": "Website Analytics",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:44:39.666931",
+  "name": "1fsbmaip6h",
+  "parent": "print-format-builder-beta",
+  "parentfield": "roles",
+  "parenttype": "Page",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:44:26.730512",
+  "name": "1br8b0kvtl",
+  "parent": "Database Storage Usage By Tables",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:44:33.127571",
+  "name": "1drrpgqbbi",
+  "parent": "Audit System Hooks",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:44:30.827869",
+  "name": "1d4oqcid5u",
+  "parent": "workflow-builder",
+  "parentfield": "roles",
+  "parenttype": "Page",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:44:26.743935",
+  "name": "1brqrc20i7",
+  "parent": "Prepared Report Analytics",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:46:48.579467",
+  "name": "1hf2fp7ji1",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Administrator"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:44:44.967824",
+  "name": "1hh71nkl7k",
+  "parent": "Guest",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Guest"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:46:49.104744",
+  "name": "2obkoqt9sd",
+  "parent": "Inventory",
+  "parentfield": "roles",
+  "parenttype": "Role Profile",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:46:49.113267",
+  "name": "2ob2ktqhto",
+  "parent": "Manufacturing",
+  "parentfield": "roles",
+  "parenttype": "Role Profile",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:46:49.123510",
+  "name": "2obrh3tq0p",
+  "parent": "Accounts",
+  "parentfield": "roles",
+  "parenttype": "Role Profile",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:46:49.130463",
+  "name": "2ob4657t6m",
+  "parent": "Sales",
+  "parentfield": "roles",
+  "parenttype": "Role Profile",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:46:49.138175",
+  "name": "2obt3bs8cr",
+  "parent": "Purchase",
+  "parentfield": "roles",
+  "parenttype": "Role Profile",
+  "role": "Item Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:55:14.533885",
+  "name": "7maj3aa8hd",
+  "parent": "vanshbhat@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Delivery User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:44:40.699168",
+  "name": "1g779e0p5i",
+  "parent": "Addresses And Contacts",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:44:26.716968",
+  "name": "1br0feq0d7",
+  "parent": "Transaction Log Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:44:29.551717",
+  "name": "1cn51qqkt8",
+  "parent": "Website Analytics",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Website Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:46:48.579467",
+  "name": "1hph2i935r",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Translator"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:46:49.105200",
+  "name": "2obnvu07i4",
+  "parent": "Inventory",
+  "parentfield": "roles",
+  "parenttype": "Role Profile",
+  "role": "Stock Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:46:49.116394",
+  "name": "2ob38jfup0",
+  "parent": "Manufacturing",
+  "parentfield": "roles",
+  "parenttype": "Role Profile",
+  "role": "Manufacturing User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:46:49.123951",
+  "name": "2ob3ptf6mr",
+  "parent": "Accounts",
+  "parentfield": "roles",
+  "parenttype": "Role Profile",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:46:49.130901",
+  "name": "2ob9l43cj6",
+  "parent": "Sales",
+  "parentfield": "roles",
+  "parenttype": "Role Profile",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:46:49.138609",
+  "name": "2ob83h64lk",
+  "parent": "Purchase",
+  "parentfield": "roles",
+  "parenttype": "Role Profile",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:55:14.533885",
+  "name": "7mac11oj0v",
+  "parent": "vanshbhat@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Auditor"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:44:40.699168",
+  "name": "1g7vm108tn",
+  "parent": "Addresses And Contacts",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Maintenance User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:46:48.579467",
+  "name": "1hp5ik13lr",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Sales Master Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:46:49.105693",
+  "name": "2obuvrooae",
+  "parent": "Inventory",
+  "parentfield": "roles",
+  "parenttype": "Role Profile",
+  "role": "Item Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:46:49.116938",
+  "name": "2obei66f69",
+  "parent": "Manufacturing",
+  "parentfield": "roles",
+  "parenttype": "Role Profile",
+  "role": "Manufacturing Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:46:49.131362",
+  "name": "2ob3ap8eva",
+  "parent": "Sales",
+  "parentfield": "roles",
+  "parenttype": "Role Profile",
+  "role": "Sales Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:46:49.139031",
+  "name": "2obhf8gkcp",
+  "parent": "Purchase",
+  "parentfield": "roles",
+  "parenttype": "Role Profile",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:55:14.533885",
+  "name": "7mahubtc2m",
+  "parent": "vanshbhat@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Sales Master Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:44:40.699168",
+  "name": "1g7o7jcj2l",
+  "parent": "Addresses And Contacts",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:46:48.579467",
+  "name": "1hpcmu0o9b",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Sales Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:46:49.139446",
+  "name": "2ob2j71pet",
+  "parent": "Purchase",
+  "parentfield": "roles",
+  "parenttype": "Role Profile",
+  "role": "Purchase Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:55:14.533885",
+  "name": "7macdtoefn",
+  "parent": "vanshbhat@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Newsletter Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:46:48.579467",
+  "name": "1hpmu40e9j",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Maintenance Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:55:14.533885",
+  "name": "7ma20bm5eq",
+  "parent": "vanshbhat@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:46:48.579467",
+  "name": "1hpkedqpv8",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Purchase Master Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:55:14.533885",
+  "name": "7map9i593t",
+  "parent": "vanshbhat@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Inbox User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:46:48.579467",
+  "name": "1hpn0p6qnp",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Purchase Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:55:14.533885",
+  "name": "7maqkn7l47",
+  "parent": "vanshbhat@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Fulfillment User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:46:48.579467",
+  "name": "1hpf7t64ho",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Maintenance User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:55:14.533885",
+  "name": "7magna674a",
+  "parent": "vanshbhat@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:46:48.579467",
+  "name": "1hpgajvq4h",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:55:14.533885",
+  "name": "7mao909718",
+  "parent": "vanshbhat@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "HR Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:46:48.579467",
+  "name": "1hpur0lekh",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:55:14.533885",
+  "name": "7ma6i57a9j",
+  "parent": "vanshbhat@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Knowledge Base Editor"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:46:48.579467",
+  "name": "1hprfve461",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:55:14.533885",
+  "name": "7ma0mfo191",
+  "parent": "vanshbhat@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Agriculture Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:46:48.579467",
+  "name": "1hpst1nks9",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:55:14.533885",
+  "name": "7mak2drunj",
+  "parent": "vanshbhat@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "HR User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:46:48.579467",
+  "name": "1hpjae9ilm",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Newsletter Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:55:14.533885",
+  "name": "7maa68b6n3",
+  "parent": "vanshbhat@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Item Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:46:48.579467",
+  "name": "1hpank0tje",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Knowledge Base Editor"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:55:14.533885",
+  "name": "7mamab2i3m",
+  "parent": "vanshbhat@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Knowledge Base Contributor"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:46:48.579467",
+  "name": "1hpvrl086v",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Knowledge Base Contributor"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:55:14.533885",
+  "name": "7mak3oeo57",
+  "parent": "vanshbhat@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Support Team"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:46:48.579467",
+  "name": "1hpvj9pd3g",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Blogger"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:55:14.533885",
+  "name": "7maholue7h",
+  "parent": "vanshbhat@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Fleet Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:46:48.579467",
+  "name": "1hpso0v6b5",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Prepared Report User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:55:14.533885",
+  "name": "7maeqaqorf",
+  "parent": "vanshbhat@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Projects User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:46:48.579467",
+  "name": "1hp9v6fdf1",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Inbox User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:55:14.533885",
+  "name": "7mafglj9us",
+  "parent": "vanshbhat@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Translator"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:46:48.579467",
+  "name": "1hpti4dhhg",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Script Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:55:14.533885",
+  "name": "7ma9218qoq",
+  "parent": "vanshbhat@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Report Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:46:48.579467",
+  "name": "1hpp19pv0a",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Report Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:55:14.533885",
+  "name": "7maf8eta0b",
+  "parent": "vanshbhat@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Academics User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:46:48.579467",
+  "name": "1hpeklea5k",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Workspace Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:55:14.533885",
+  "name": "7ma2vtoef2",
+  "parent": "vanshbhat@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Workspace Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:46:48.579467",
+  "name": "1hph42shgj",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Dashboard Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:55:14.533885",
+  "name": "7ma5gck6p3",
+  "parent": "vanshbhat@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Purchase Master Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:46:48.579467",
+  "name": "1hplmntinv",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Website Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:55:14.533885",
+  "name": "7makj55po6",
+  "parent": "vanshbhat@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Maintenance User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:46:48.579467",
+  "name": "1hppbapod7",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Desk User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:55:14.533885",
+  "name": "7mak7scafs",
+  "parent": "vanshbhat@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:46:48.579467",
+  "name": "1hpkbtkb4r",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Guest"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:55:14.533885",
+  "name": "7mae0e9fuk",
+  "parent": "vanshbhat@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:46:48.579467",
+  "name": "1hphekapbg",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:55:14.533885",
+  "name": "7marqb4ft7",
+  "parent": "vanshbhat@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Script Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:46:48.579467",
+  "name": "1hpmkle1gf",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "All"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:55:14.533885",
+  "name": "7ma77jje4v",
+  "parent": "vanshbhat@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Website Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:46:48.579467",
+  "name": "2o57qmja6v",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Stock Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:55:14.533885",
+  "name": "7madbtev71",
+  "parent": "vanshbhat@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Prepared Report User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:46:48.579467",
+  "name": "2o5gg4ci1v",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Support Team"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:55:14.533885",
+  "name": "7maons3ia4",
+  "parent": "vanshbhat@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Maintenance Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:46:48.579467",
+  "name": "2o56s97i1k",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Manufacturing User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:55:14.533885",
+  "name": "7maa6snopn",
+  "parent": "vanshbhat@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Projects Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:46:48.579467",
+  "name": "2o6g9581kb",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Delivery Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:55:14.533885",
+  "name": "7majb9d68m",
+  "parent": "vanshbhat@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Manufacturing Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:46:48.579467",
+  "name": "2o6u1gd7r2",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Auditor"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:55:14.533885",
+  "name": "7makeuu27r",
+  "parent": "vanshbhat@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Blogger"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:46:48.579467",
+  "name": "2o60e8i2gl",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Fleet Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:55:14.533885",
+  "name": "7ma5td302l",
+  "parent": "vanshbhat@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:46:48.579467",
+  "name": "2o6ltc2v0d",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Fulfillment User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:55:14.533885",
+  "name": "7madrglmd2",
+  "parent": "vanshbhat@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Dashboard Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:46:48.579467",
+  "name": "2o60brlpau",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Agriculture Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:55:14.533885",
+  "name": "7ma2et073o",
+  "parent": "vanshbhat@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Stock Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:46:48.579467",
+  "name": "2o61go56vc",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Academics User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:55:14.533885",
+  "name": "7ma0dmuq7b",
+  "parent": "vanshbhat@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:46:48.579467",
+  "name": "2o693dc73q",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Quality Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:55:14.533885",
+  "name": "7ma1lopeuv",
+  "parent": "vanshbhat@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Quality Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:46:48.579467",
+  "name": "2o6s456tuc",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Analytics"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:55:14.533885",
+  "name": "7ma7aoplet",
+  "parent": "vanshbhat@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Analytics"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:46:48.579467",
+  "name": "2o6ouccosh",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Projects User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:55:14.533885",
+  "name": "7maeqjh2ti",
+  "parent": "vanshbhat@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Manufacturing User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:46:48.579467",
+  "name": "2o6thnajgp",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Agriculture User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:55:14.533885",
+  "name": "7maifkmtr8",
+  "parent": "vanshbhat@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Delivery Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:46:48.579467",
+  "name": "2o6od2rifm",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Manufacturing Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:55:14.533885",
+  "name": "7masf261mv",
+  "parent": "vanshbhat@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Sales Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:46:48.579467",
+  "name": "2o61fm4qil",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Item Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:55:14.533885",
+  "name": "7mad4rfi9p",
+  "parent": "vanshbhat@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Purchase Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:46:48.579467",
+  "name": "2o6bki4ito",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "HR Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:55:14.533885",
+  "name": "7mai4s451e",
+  "parent": "vanshbhat@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Agriculture User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:46:48.579467",
+  "name": "2o66nt59uo",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "HR User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:46:48.579467",
+  "name": "2o6t38lt7k",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Delivery User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:46:48.579467",
+  "name": "2o6lr5ro3v",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Projects Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2025-07-01 14:46:48.579467",
+  "name": "2o6h098od3",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Stock User"
+ }
+]
