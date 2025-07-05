@@ -254,9 +254,6 @@ fixtures = [
     {"doctype": "Print Format"},
     {"doctype": "Role Profile"},
     {"doctype": "User Permission"},
-    {"doctype": "Role Permission for Page and Report"},
-    {"doctype": "Has Role"},
-    {"doctype": "Custom DocPerm", "filters": [["role", "in", ["Super Admin", "Admin", "Branch Admin", "Salesperson", "BOE"]]]},
     {"doctype": "Workspace", "filters": [["name", "=", "API Integration"]]},
     {"doctype": "DocType", "filters": [["name", "=", "API Integration"]]}
 ]
