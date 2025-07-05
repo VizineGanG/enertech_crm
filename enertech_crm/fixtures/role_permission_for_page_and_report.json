@@ -1,112 +1,46 @@
 [
+  // === Prospect ===
   {
     "doctype": "Role Permission for Page and Report",
-    "role": "Super Admin",
+    "name": "Salesperson-Prospect",
+    "role": "Salesperson",
     "page_or_report": "Prospect",
-    "select": 1, "read": 1, "write": 1, "create": 1, "delete": 1,
-    "print": 1, "email": 1, "report": 1, "import": 1, "export": 1,
-    "set_role_for": "Super Admin"
+    "select": 1, "read": 1, "write": 0, "create": 0, "delete": 0,
+    "print": 0, "email": 0, "report": 0, "import": 0, "export": 0,
+    "set_role_for": "Salesperson"
   },
   {
     "doctype": "Role Permission for Page and Report",
-    "role": "Super Admin",
-    "page_or_report": "Lead",
-    "select": 1, "read": 1, "write": 1, "create": 1, "delete": 1,
-    "print": 1, "email": 1, "report": 1, "import": 1, "export": 1,
-    "set_role_for": "Super Admin"
-  },
-  {
-    "doctype": "Role Permission for Page and Report",
-    "role": "Super Admin",
-    "page_or_report": "Opportunity",
-    "select": 1, "read": 1, "write": 1, "create": 1, "delete": 1,
-    "print": 1, "email": 1, "report": 1, "import": 1, "export": 1,
-    "set_role_for": "Super Admin"
-  },
-  {
-    "doctype": "Role Permission for Page and Report",
-    "role": "Super Admin",
-    "page_or_report": "Quotation",
-    "select": 1, "read": 1, "write": 1, "create": 1, "delete": 1,
-    "print": 1, "email": 1, "report": 1, "import": 1, "export": 1,
-    "set_role_for": "Super Admin"
-  },
-  {
-    "doctype": "Role Permission for Page and Report",
-    "role": "Super Admin",
-    "page_or_report": "Follow Up",
-    "select": 1, "read": 1, "write": 1, "create": 1, "delete": 1,
-    "print": 1, "email": 1, "report": 1, "import": 1, "export": 1,
-    "set_role_for": "Super Admin"
-  },
-  {
-    "doctype": "Role Permission for Page and Report",
-    "role": "Super Admin",
-    "page_or_report": "Deal",
-    "select": 1, "read": 1, "write": 1, "create": 1, "delete": 1,
-    "print": 1, "email": 1, "report": 1, "import": 1, "export": 1,
-    "set_role_for": "Super Admin"
-  },
-
-  {
-    "doctype": "Role Permission for Page and Report",
-    "role": "Admin",
+    "name": "Branch Admin-Prospect",
+    "role": "Branch Admin",
     "page_or_report": "Prospect",
     "select": 1, "read": 1, "write": 1, "create": 1, "delete": 0,
-    "print": 1, "email": 1, "report": 1, "import": 1, "export": 1,
-    "set_role_for": "Admin"
+    "print": 1, "email": 1, "report": 1, "import": 0, "export": 0,
+    "set_role_for": "Branch Admin"
   },
   {
     "doctype": "Role Permission for Page and Report",
+    "name": "Admin-Prospect",
     "role": "Admin",
-    "page_or_report": "Lead",
-    "select": 1, "read": 1, "write": 1, "create": 1, "delete": 0,
-    "print": 1, "email": 1, "report": 1, "import": 1, "export": 1,
-    "set_role_for": "Admin"
-  },
-  {
-    "doctype": "Role Permission for Page and Report",
-    "role": "Admin",
-    "page_or_report": "Opportunity",
-    "select": 1, "read": 1, "write": 1, "create": 1, "delete": 0,
-    "print": 1, "email": 1, "report": 1, "import": 1, "export": 1,
-    "set_role_for": "Admin"
-  },
-  {
-    "doctype": "Role Permission for Page and Report",
-    "role": "Admin",
-    "page_or_report": "Quotation",
-    "select": 1, "read": 1, "write": 1, "create": 1, "delete": 0,
-    "print": 1, "email": 1, "report": 1, "import": 1, "export": 1,
-    "set_role_for": "Admin"
-  },
-  {
-    "doctype": "Role Permission for Page and Report",
-    "role": "Admin",
-    "page_or_report": "Follow Up",
-    "select": 1, "read": 1, "write": 1, "create": 1, "delete": 0,
-    "print": 1, "email": 1, "report": 1, "import": 1, "export": 1,
-    "set_role_for": "Admin"
-  },
-  {
-    "doctype": "Role Permission for Page and Report",
-    "role": "Admin",
-    "page_or_report": "Deal",
-    "select": 1, "read": 1, "write": 1, "create": 1, "delete": 0,
+    "page_or_report": "Prospect",
+    "select": 1, "read": 1, "write": 1, "create": 1, "delete": 1,
     "print": 1, "email": 1, "report": 1, "import": 1, "export": 1,
     "set_role_for": "Admin"
   },
 
+  // === Lead ===
   {
     "doctype": "Role Permission for Page and Report",
-    "role": "Branch Admin",
-    "page_or_report": "Prospect",
-    "select": 1, "read": 1, "write": 1, "create": 1, "delete": 0,
-    "print": 1, "email": 1, "report": 1, "import": 0, "export": 0,
-    "set_role_for": "Branch Admin"
+    "name": "Salesperson-Lead",
+    "role": "Salesperson",
+    "page_or_report": "Lead",
+    "select": 1, "read": 1, "write": 0, "create": 0, "delete": 0,
+    "print": 0, "email": 0, "report": 0, "import": 0, "export": 0,
+    "set_role_for": "Salesperson"
   },
   {
     "doctype": "Role Permission for Page and Report",
+    "name": "Branch Admin-Lead",
     "role": "Branch Admin",
     "page_or_report": "Lead",
     "select": 1, "read": 1, "write": 1, "create": 1, "delete": 0,
@@ -115,55 +49,18 @@
   },
   {
     "doctype": "Role Permission for Page and Report",
-    "role": "Branch Admin",
-    "page_or_report": "Opportunity",
-    "select": 1, "read": 1, "write": 1, "create": 1, "delete": 0,
-    "print": 1, "email": 1, "report": 1, "import": 0, "export": 0,
-    "set_role_for": "Branch Admin"
-  },
-  {
-    "doctype": "Role Permission for Page and Report",
-    "role": "Branch Admin",
-    "page_or_report": "Quotation",
-    "select": 1, "read": 1, "write": 1, "create": 1, "delete": 0,
-    "print": 1, "email": 1, "report": 1, "import": 0, "export": 0,
-    "set_role_for": "Branch Admin"
-  },
-  {
-    "doctype": "Role Permission for Page and Report",
-    "role": "Branch Admin",
-    "page_or_report": "Follow Up",
-    "select": 1, "read": 1, "write": 1, "create": 1, "delete": 0,
-    "print": 1, "email": 1, "report": 1, "import": 0, "export": 0,
-    "set_role_for": "Branch Admin"
-  },
-  {
-    "doctype": "Role Permission for Page and Report",
-    "role": "Branch Admin",
-    "page_or_report": "Deal",
-    "select": 1, "read": 1, "write": 1, "create": 1, "delete": 0,
-    "print": 1, "email": 1, "report": 1, "import": 0, "export": 0,
-    "set_role_for": "Branch Admin"
+    "name": "Admin-Lead",
+    "role": "Admin",
+    "page_or_report": "Lead",
+    "select": 1, "read": 1, "write": 1, "create": 1, "delete": 1,
+    "print": 1, "email": 1, "report": 1, "import": 1, "export": 1,
+    "set_role_for": "Admin"
   },
 
+  // === Opportunity ===
   {
     "doctype": "Role Permission for Page and Report",
-    "role": "Salesperson",
-    "page_or_report": "Prospect",
-    "select": 1, "read": 1, "write": 0, "create": 0, "delete": 0,
-    "print": 0, "email": 0, "report": 0, "import": 0, "export": 0,
-    "set_role_for": "Salesperson"
-  },
-  {
-    "doctype": "Role Permission for Page and Report",
-    "role": "Salesperson",
-    "page_or_report": "Lead",
-    "select": 1, "read": 1, "write": 0, "create": 0, "delete": 0,
-    "print": 0, "email": 0, "report": 0, "import": 0, "export": 0,
-    "set_role_for": "Salesperson"
-  },
-  {
-    "doctype": "Role Permission for Page and Report",
+    "name": "Salesperson-Opportunity",
     "role": "Salesperson",
     "page_or_report": "Opportunity",
     "select": 1, "read": 1, "write": 0, "create": 0, "delete": 0,
@@ -172,76 +69,108 @@
   },
   {
     "doctype": "Role Permission for Page and Report",
-    "role": "Salesperson",
-    "page_or_report": "Quotation",
-    "select": 1, "read": 1, "write": 0, "create": 0, "delete": 0,
-    "print": 0, "email": 0, "report": 0, "import": 0, "export": 0,
-    "set_role_for": "Salesperson"
+    "name": "Branch Admin-Opportunity",
+    "role": "Branch Admin",
+    "page_or_report": "Opportunity",
+    "select": 1, "read": 1, "write": 1, "create": 1, "delete": 0,
+    "print": 1, "email": 1, "report": 1, "import": 0, "export": 0,
+    "set_role_for": "Branch Admin"
   },
   {
     "doctype": "Role Permission for Page and Report",
-    "role": "Salesperson",
-    "page_or_report": "Follow Up",
-    "select": 1, "read": 1, "write": 0, "create": 0, "delete": 0,
-    "print": 0, "email": 0, "report": 0, "import": 0, "export": 0,
-    "set_role_for": "Salesperson"
-  },
-  {
-    "doctype": "Role Permission for Page and Report",
-    "role": "Salesperson",
-    "page_or_report": "Deal",
-    "select": 1, "read": 1, "write": 0, "create": 0, "delete": 0,
-    "print": 0, "email": 0, "report": 0, "import": 0, "export": 0,
-    "set_role_for": "Salesperson"
+    "name": "Admin-Opportunity",
+    "role": "Admin",
+    "page_or_report": "Opportunity",
+    "select": 1, "read": 1, "write": 1, "create": 1, "delete": 1,
+    "print": 1, "email": 1, "report": 1, "import": 1, "export": 1,
+    "set_role_for": "Admin"
   },
 
+  // === Quotation ===
   {
     "doctype": "Role Permission for Page and Report",
-    "role": "BOE",
-    "page_or_report": "Prospect",
-    "select": 1, "read": 1, "write": 0, "create": 0, "delete": 0,
-    "print": 0, "email": 0, "report": 0, "import": 0, "export": 0,
-    "set_role_for": "BOE"
-  },
-  {
-    "doctype": "Role Permission for Page and Report",
-    "role": "BOE",
-    "page_or_report": "Lead",
-    "select": 1, "read": 1, "write": 0, "create": 0, "delete": 0,
-    "print": 0, "email": 0, "report": 0, "import": 0, "export": 0,
-    "set_role_for": "BOE"
-  },
-  {
-    "doctype": "Role Permission for Page and Report",
-    "role": "BOE",
-    "page_or_report": "Opportunity",
-    "select": 1, "read": 1, "write": 0, "create": 0, "delete": 0,
-    "print": 0, "email": 0, "report": 0, "import": 0, "export": 0,
-    "set_role_for": "BOE"
-  },
-  {
-    "doctype": "Role Permission for Page and Report",
-    "role": "BOE",
+    "name": "Salesperson-Quotation",
+    "role": "Salesperson",
     "page_or_report": "Quotation",
     "select": 1, "read": 1, "write": 0, "create": 0, "delete": 0,
     "print": 0, "email": 0, "report": 0, "import": 0, "export": 0,
-    "set_role_for": "BOE"
+    "set_role_for": "Salesperson"
   },
   {
     "doctype": "Role Permission for Page and Report",
-    "role": "BOE",
+    "name": "Branch Admin-Quotation",
+    "role": "Branch Admin",
+    "page_or_report": "Quotation",
+    "select": 1, "read": 1, "write": 1, "create": 1, "delete": 0,
+    "print": 1, "email": 1, "report": 1, "import": 0, "export": 0,
+    "set_role_for": "Branch Admin"
+  },
+  {
+    "doctype": "Role Permission for Page and Report",
+    "name": "Admin-Quotation",
+    "role": "Admin",
+    "page_or_report": "Quotation",
+    "select": 1, "read": 1, "write": 1, "create": 1, "delete": 1,
+    "print": 1, "email": 1, "report": 1, "import": 1, "export": 1,
+    "set_role_for": "Admin"
+  },
+
+  // === Follow Up ===
+  {
+    "doctype": "Role Permission for Page and Report",
+    "name": "Salesperson-Follow Up",
+    "role": "Salesperson",
     "page_or_report": "Follow Up",
     "select": 1, "read": 1, "write": 0, "create": 0, "delete": 0,
     "print": 0, "email": 0, "report": 0, "import": 0, "export": 0,
-    "set_role_for": "BOE"
+    "set_role_for": "Salesperson"
   },
   {
     "doctype": "Role Permission for Page and Report",
-    "role": "BOE",
+    "name": "Branch Admin-Follow Up",
+    "role": "Branch Admin",
+    "page_or_report": "Follow Up",
+    "select": 1, "read": 1, "write": 1, "create": 1, "delete": 0,
+    "print": 1, "email": 1, "report": 1, "import": 0, "export": 0,
+    "set_role_for": "Branch Admin"
+  },
+  {
+    "doctype": "Role Permission for Page and Report",
+    "name": "Admin-Follow Up",
+    "role": "Admin",
+    "page_or_report": "Follow Up",
+    "select": 1, "read": 1, "write": 1, "create": 1, "delete": 1,
+    "print": 1, "email": 1, "report": 1, "import": 1, "export": 1,
+    "set_role_for": "Admin"
+  },
+
+  // === Deal ===
+  {
+    "doctype": "Role Permission for Page and Report",
+    "name": "Salesperson-Deal",
+    "role": "Salesperson",
     "page_or_report": "Deal",
     "select": 1, "read": 1, "write": 0, "create": 0, "delete": 0,
     "print": 0, "email": 0, "report": 0, "import": 0, "export": 0,
-    "set_role_for": "BOE"
+    "set_role_for": "Salesperson"
+  },
+  {
+    "doctype": "Role Permission for Page and Report",
+    "name": "Branch Admin-Deal",
+    "role": "Branch Admin",
+    "page_or_report": "Deal",
+    "select": 1, "read": 1, "write": 1, "create": 1, "delete": 0,
+    "print": 1, "email": 1, "report": 1, "import": 0, "export": 0,
+    "set_role_for": "Branch Admin"
+  },
+  {
+    "doctype": "Role Permission for Page and Report",
+    "name": "Admin-Deal",
+    "role": "Admin",
+    "page_or_report": "Deal",
+    "select": 1, "read": 1, "write": 1, "create": 1, "delete": 1,
+    "print": 1, "email": 1, "report": 1, "import": 1, "export": 1,
+    "set_role_for": "Admin"
   }
 ]
 
