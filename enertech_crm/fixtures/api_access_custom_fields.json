@@ -1,0 +1,30 @@
+[
+  {
+    "doctype": "Custom Field",
+    "name": "User-api_key",
+    "fieldname": "api_key",
+    "dt": "User",
+    "parent": "User",
+    "label": "API Key",
+    "fieldtype": "Data",
+    "insert_after": "last_name",
+    "read_only": 1,
+    "reqd": 0,
+    "no_copy": 1,
+    "description": "Used for REST API authentication"
+  },
+  {
+    "doctype": "Custom Field",
+    "name": "User-api_secret",
+    "fieldname": "api_secret",
+    "dt": "User",
+    "parent": "User",
+    "label": "API Secret",
+    "fieldtype": "Password",
+    "insert_after": "api_key",
+    "read_only": 1,
+    "reqd": 0,
+    "no_copy": 1,
+    "description": "Used for REST API authentication"
+  }
+]
